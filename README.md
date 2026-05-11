@@ -4,6 +4,8 @@
 ## AIM 
 To write a python program to perform stop and wait protocol
 
+## DATE
+11/05/2026
 
 ## ALGORITHM
 1. Start the program.
