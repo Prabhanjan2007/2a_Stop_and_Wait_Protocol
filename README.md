@@ -53,5 +53,8 @@ while True:
 ![alt text](im2.jpeg)
 
 
+
 ## RESULT
+
+
 Thus, python program to perform stop and wait protocol was successfully executed.
